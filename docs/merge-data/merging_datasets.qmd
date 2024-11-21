@@ -5,6 +5,7 @@ date: "November 20, 2024"
 format: html
 embed-resources: true
 editor: visual
+toc: true
 ---
 
 ## Introduction
@@ -101,4 +102,4 @@ merged_data <- merge(
 datatable(merged_data)
 ```
 
-### You did it! Congratulations :)
+## You did it! Congratulations :)
